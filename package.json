@@ -1,5 +1,5 @@
 {
-  "name": "require_async",
+  "name": "require_async_module",
   "version": "1.0.0",
   "description": "NodeJs Async module loader",
   "main": "index.js",
@@ -18,5 +18,8 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
+  },
+  "repository": {
+    "url": "https://github.com/JacopoPatroclo/RequireAsync"
   }
 }
